@@ -9,9 +9,9 @@
 <details><summary> 經歷 </summary><blockquote>
 
 <details><summary>  國中</summary><blockquote>
-~~
+
 陽明國中畢業
-~~
+
 <details><summary> 高中 </summary><blockquote>
 
 ~~~
