@@ -20,3 +20,11 @@
 </blockquote></details>
 </blockquote></details>
 </blockquote></details>
+<hr><br>
+
+### 自傳
+- # 經過
+# 1
+ - ## 目前狀態
+  ## 2
+
